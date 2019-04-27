@@ -1,0 +1,9 @@
+name:  AddToAny Snowflake
+type: module
+description: 'Make AddToAny blocks with non-global config. They are snowflakes!'
+# core: 8.x
+package: other
+version: VERSION
+core: '8.x'
+dependencies:
+  - addtoany
